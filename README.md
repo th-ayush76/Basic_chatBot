@@ -13,7 +13,8 @@ A simple and interactive command-line chatbot built with Python. This project de
 3. Open your terminal or command prompt in the project folder.
 4. Run the chatbot using the following command:
    ```bash
+   
    python basicchatbot.py
 
    ----
-   *Developed by Ayush
+*Developed by Ayush
